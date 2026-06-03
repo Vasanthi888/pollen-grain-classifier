@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 uploads/*
 .env
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
